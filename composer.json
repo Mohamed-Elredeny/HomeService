@@ -1,0 +1,15 @@
+{
+    "name": "vendor1/home-service",
+    "license": "GNU3",
+    "authors": [
+        {
+            "name": "Mohamed",
+            "email": "Mohamedelredeny1@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "kreait/firebase-php": "5.0",
+        "google/cloud-firestore": "^1.8"
+    }
+}

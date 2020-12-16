@@ -1,0 +1,16 @@
+.cats{
+    margin-right: 3%;
+    margin-left: 3%;
+
+    position: relative;
+    direction: rtl;
+    text-align: right;
+
+}
+.cats a input{
+    height: 155px;
+    width: 310px;
+    margin-top: 20px;
+    font-size: 20px;
+    direction: rtl;
+}
